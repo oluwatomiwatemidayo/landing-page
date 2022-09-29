@@ -19,8 +19,8 @@ body {
     display: flex;
     justify-content: space-between;
     margin-bottom: 40px;
-   /* margin-left: 50px;
-    margin-right: 50px; */
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .header-logo {
@@ -51,9 +51,10 @@ a, .secondary-text {
 .bottom-hero {
     display: flex;
     justify-content: space-between;
+    gap: 30px;
     margin-bottom: 50px;
-   /* margin-left: 50px;
-    margin-right: 50px; */
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .image {
