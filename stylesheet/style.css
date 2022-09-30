@@ -72,6 +72,7 @@ a, .secondary-text {
 .button {
     background: #3882f6;
     color: #f9faf8;
+    border: 1px solid #3882f6;
     padding: 6px 12px;
     border-radius: 8px;
 }
@@ -130,4 +131,34 @@ a, .secondary-text {
     text-align: right;
     font-size: 20px;
     font-weight: 700;
+}
+
+.section-three {
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+}
+
+.section-three-content {
+    width: 800px;
+    background: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    padding: 20px;
+    flex: 1;
+}
+
+.section-three-textone {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.section-three-button > button {
+    background: #3882f6;
+    color: #f9faf8;
+    border: 1px solid #f9faf8;
+    padding: 6px 12px;
+    border-radius: 8px;
 }
