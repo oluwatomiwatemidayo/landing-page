@@ -163,3 +163,13 @@ a, .secondary-text {
     padding: 6px 12px;
     border-radius: 8px;
 }
+
+.footer {
+    background: #1f2937;
+    color: #e5e7eb;
+}
+
+.footer-text {
+    text-align: center;
+    margin: 20px;
+}
