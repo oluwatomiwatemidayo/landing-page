@@ -95,7 +95,7 @@ a, .secondary-text {
     margin: 20px auto;
 }
 
-.section-two-image {
+.section-one-image {
     width: 130px;
     height: 130px;
     border: 2px solid #3882f6;
@@ -107,6 +107,6 @@ a, .secondary-text {
     width: 130px;
 }
 
-.section-two-text {
+.section-one-text {
     text-align: center;
 }
